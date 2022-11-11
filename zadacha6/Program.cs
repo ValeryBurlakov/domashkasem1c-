@@ -11,5 +11,5 @@ if(number1%2 == 0)
 }
 else
 {
-   Console.WriteLine($"{number1} - не чётное число"); 
+   Console.WriteLine($"{number1} - не чётное число");
 }
