@@ -18,14 +18,6 @@ while (index <= numberA)
     }
 }
 
-// size = 8
-// count = 0
-// index = 0
-// while (index < size) do
-//     if (numbers[index > 0]) then
-//        count = count + 1 
-//     index = index + 1
-// print(count)  
 
 
 
