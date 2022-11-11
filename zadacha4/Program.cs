@@ -1,8 +1,8 @@
 ﻿// напишите программу, которая принимает 3 числа и выводит максимальное из них
 // 2, 3, 7 -> 7
 Console.Write("Введите первое число: ");
-int number1 = Convert.ToInt32(Console.ReadLine());
-
+int number1 = Convert.ToInt32(Console.ReadLine());// если хотим сравнивать ещё и вещественные числа
+//                                                   то вместо int ставим double
 Console.Write("Введите второе число: ");
 int number2 = Convert.ToInt32(Console.ReadLine());
 
