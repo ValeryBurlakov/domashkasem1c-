@@ -9,7 +9,7 @@ while (index <= numberA)
    int result = index % 2;
    if(result != 1)
    {
-    Console.WriteLine("Чётные чиселки: " + index);
+    Console.WriteLine("Чётные числа: " + index);
     index++;
    }
    else
